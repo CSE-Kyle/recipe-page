@@ -1,0 +1,130 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-color: #f3e5d7;
+}
+
+.container {
+  background-color: #ffffff;
+  max-width: 46rem;
+  max-height: 106.75rem;
+  margin: auto;
+  border-radius: 1.5rem;
+}
+
+img {
+  display: block;
+  padding: 2.5rem;
+  border-radius: 12px;
+  border-radius: 3.4rem;
+}
+
+hr {
+  color: #e3ddd7;
+}
+
+p {
+  font-size: 1rem;
+  font-family: OutLight;
+  line-height: 1.5;
+  color: #5f564d;
+}
+
+h2 {
+  font-family: YoungSerif;
+  font-size: 1.75rem;
+  color: #854632;
+}
+
+.recipe-section {
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+}
+
+.heading {
+  font-family: YoungSerif;
+  font-size: 2.5rem;
+}
+
+.description {
+  margin-top: 2rem;
+}
+
+/* preparation section */
+
+.prep-section {
+  background-color: #fff7fb;
+  border-radius: 0.75rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-family: OutSemiBold;
+  color: #7a284e;
+  padding: 1.875rem;
+}
+
+.prep-section ul {
+  padding-left: 4em;
+  line-height: 2;
+}
+
+.prep-section > ul > li {
+  padding-left: 1em;
+  font-family: OutLight;
+  color: #5f564d;
+}
+
+.bold {
+  font-family: OutSemiBold;
+}
+
+/* ingredients section */
+.ingredients-section {
+  margin-top: 2rem;
+}
+
+.ingredients-section ul {
+  margin-top: 1rem;
+  padding-left: 2em;
+}
+
+.ingredients-section > ul > li {
+  font-family: OutLight;
+  padding-left: 1em;
+  line-height: 2;
+  color: #5f564d;
+}
+
+/* instructions */
+.instructions-section {
+  margin-top: 2rem;
+}
+
+.instructions-section ol {
+  margin-top: 1rem;
+  padding-left: 2em;
+}
+
+.instructions-section > ol > li {
+  font-family: OutLight;
+  padding-left: 1em;
+  margin-top: 1rem;
+  line-height: 1.5;
+  color: #5f564d;
+}
+
+.instructions-section > ol > li::marker {
+  font-family: OutBold;
+  color: #854632;
+}
+
+.categories {
+  column-count: 2;
+}
