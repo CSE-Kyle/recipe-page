@@ -38,8 +38,8 @@ Mobile :
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github.com](https://github.com/CSE-Kyle/recipe-page)
+- Live Site URL: [Netlify.com](https://clever-churros-9c9f1f.netlify.app)
 
 ## My process
 
