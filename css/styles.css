@@ -8,12 +8,12 @@
 
 body {
   background-color: #f3e5d7;
+  padding: 0.625rem;
 }
 
 .container {
   background-color: #ffffff;
   max-width: 46rem;
-  max-height: 106.75rem;
   margin: auto;
   border-radius: 1.5rem;
 }
@@ -88,10 +88,12 @@ h3 {
 /* ingredients section */
 .ingredients-section {
   margin-top: 2rem;
+  border-bottom: 1px solid #E3DDD7;
 }
 
 .ingredients-section ul {
   margin-top: 1rem;
+  margin-bottom: 2rem;
   padding-left: 2em;
 }
 
@@ -105,10 +107,12 @@ h3 {
 /* instructions */
 .instructions-section {
   margin-top: 2rem;
+  border-bottom: 1px solid #E3DDD7;
 }
 
 .instructions-section ol {
   margin-top: 1rem;
+  margin-bottom: 2rem;
   padding-left: 2em;
 }
 
@@ -125,6 +129,30 @@ h3 {
   color: #854632;
 }
 
+.nutrition-section {
+    margin-top: 2rem;
+}
+
 .categories {
   column-count: 2;
+}
+
+table {
+  width: 100%;
+}
+
+.value {
+    font-family: OutSemiBold;
+    color: #854632;
+}
+
+td {
+    border-bottom: 1px solid #E3DDD7;
+    padding: 10px;
+    font-family: OutLight;
+}
+
+footer {
+    padding: 0.625rem;
+    font-size: 1rem;
 }
