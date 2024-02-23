@@ -88,7 +88,7 @@ h3 {
 /* ingredients section */
 .ingredients-section {
   margin-top: 2rem;
-  border-bottom: 1px solid #E3DDD7;
+  border-bottom: 1px solid #e3ddd7;
 }
 
 .ingredients-section ul {
@@ -107,7 +107,7 @@ h3 {
 /* instructions */
 .instructions-section {
   margin-top: 2rem;
-  border-bottom: 1px solid #E3DDD7;
+  border-bottom: 1px solid #e3ddd7;
 }
 
 .instructions-section ol {
@@ -130,7 +130,8 @@ h3 {
 }
 
 .nutrition-section {
-    margin-top: 2rem;
+  margin-top: 2rem;
+  padding-bottom: 2.5rem;
 }
 
 .categories {
@@ -139,20 +140,21 @@ h3 {
 
 table {
   width: 100%;
+  border-collapse: collapse;
 }
 
 .value {
-    font-family: OutSemiBold;
-    color: #854632;
+  font-family: OutSemiBold;
+  color: #854632;
 }
 
 td {
-    border-bottom: 1px solid #E3DDD7;
-    padding: 10px;
-    font-family: OutLight;
+  border-bottom: 1px solid #e3ddd7;
+  padding: 10px;
+  font-family: OutLight;
 }
 
 footer {
-    padding: 0.625rem;
-    font-size: 1rem;
+  padding: 0.625rem;
+  font-size: 1rem;
 }
